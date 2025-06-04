@@ -64,7 +64,7 @@ class Botones(View):
     def __init__(self, canal_id):
         super().__init__(timeout=None)
         controles = [("Pistolas 9mm", [1, -1]),
-                     ("Balas 9mm", [100, -100, 500, -500]),
+                     ("Balas 9mm", [80, -80, 120, -120, 1000]),
                      ("Chalecos", [1, -1, 5, -5]),
                      ("Radios", [1, -1]),
                      ("Cuchillos", [1, -1])]
