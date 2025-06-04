@@ -61,13 +61,16 @@ class BotonItem(discord.ui.Button):
         )
 
 class Botones(View):
+
     def __init__(self, canal_id):
         super().__init__(timeout=None)
         controles = [("Pistolas 9mm", [1, -1]),
-                     ("Balas 9mm", [80, -80, 120, -120, 1000]),
+                     ("Balas 9mm", [100, -100, 500, -500]),
                      ("Chalecos", [1, -1, 5, -5]),
-                     ("Radios", [1, -1]),
-                     ("Cuchillos", [1, -1])]
+                     ("Radios", [1, -1])]
+        if canal_id != 1379491923743477851:
+            controles.append(("Cuchillos", [1, -1]))
+
         row = 0
         col_count = 0
         for item, cambios in controles:
@@ -75,7 +78,8 @@ class Botones(View):
                 if col_count >= 5:
                     row += 1
                     col_count = 0
-                self.add_item(BotonItem(item, delta, canal_id=canal_id, row=row))
+                self.add_item(
+                    BotonItem(item, delta, canal_id=canal_id, row=row))
                 col_count += 1
 
 class StockBot(discord.Client):
