@@ -8,7 +8,8 @@ with open("inventario.json", "r") as f:
 
 CANAL_IDS = {
     1379491898598752408: "Armario Recolectores",
-    1379491923743477851: "Armario Armeros"
+    1379491923743477851: "Armario Armeros",
+    1366441232456355981: "Armario Almacén"  
 }
 
 EMOJIS = {
