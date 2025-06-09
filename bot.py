@@ -34,7 +34,8 @@ EMOJIS = {
     "Amapolas Procesada": "🌿",
     "Amnesia Procesada": "🌿",
     "Dinero": "💵",
-    "Dinero Negro": "💴"
+    "Dinero Negro": "💴",
+    "Metal": "⚙️"
 }
 
 def guardar_inventario():
