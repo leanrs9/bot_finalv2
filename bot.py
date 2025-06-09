@@ -111,7 +111,10 @@ class StockBot(discord.Client):
             canal = self.get_channel(canal_id)
             if canal:
                 embed = crear_embed(canal_id)
-                await canal.send(embed=embed, view=Botones(canal_id))
+                if canal_id in [1381444949039648848, 1381444864234885220]:
+                    await canal.send(embed=embed)  
+                else:
+                    await canal.send(embed=embed, view=Botones(canal_id))  
             else:
                 print(f'❌ No encontré el canal con ID: {canal_id}')
 
