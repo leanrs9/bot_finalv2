@@ -21,7 +21,7 @@ EMOJIS = {
     "Chalecos": "🦺",
     "Balas 9mm": "💥",
     "Pistolas .50": "🔫",
-    "Revolvers": "🔫",
+    "Revolveres": "🔫",
     "Balas de .50": "💥",
     "Balas de Revolver": "💥",
     "Coca": "🍃",
