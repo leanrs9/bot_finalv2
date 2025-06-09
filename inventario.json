@@ -13,28 +13,27 @@
         "Radios": 50
     },
       "1366441232456355981": {  
-    "Pistolas 9mm": 0,
-    "Pistolas .50": 0,
-    "Revolvers": 0,
-    "Balas 9mm": 0,
-    "Balas de .50": 0,
-    "Balas de Revolver": 0,
-    "Chalecos": 0,
-    "Radios": 0,
-    "Cuchillos": 0
+    "Pistolas 9mm": 14,
+    "Pistolas .50": 18,
+    "Revolvers": 11,
+    "Balas 9mm": 9520,
+    "Balas de .50": 1652,
+    "Balas de Revolver": 1152,
+    "Chalecos": 42,
+    "Radios": 100
   },
   "1333849102106234932": {
-    "Coca": 0,
-    "Purple Kush": 0,
-    "Amapolas": 0,
-    "Amnesia Haze": 0,
-    "Peyotes": 0,
-    "Coca Procesada": 0,
-    "Purple Procesada": 0,
-    "Amapolas Procesada": 0,
-    "Amnesia Procesada": 0,
-    "Dinero": 0,
-    "Dinero Negro": 0,
-    "Pistolas 9mm": 0
+    "Coca": 481,
+    "Amapolas": 395,
+    "Purple Kush": 2378,
+    "Amnesia Haze": 3936,
+    "Peyotes": 16000,
+    "Coca Procesada": 3147,
+    "Amapolas Procesada": 5594,
+    "Purple Procesada": 5005,
+    "Amnesia Procesada": 2955,
+    "Dinero": 2074334,
+    "Dinero Negro": 925381,
+    "Pistolas 9mm": 86
   }
 }
