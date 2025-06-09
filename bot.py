@@ -20,6 +20,21 @@ EMOJIS = {
     "Radios": "📻",
     "Chalecos": "🦺",
     "Balas 9mm": "💥"
+    "Pistolas .50": "🔫",
+    "Revolvers": "🔫",
+    "Balas de .50": "💥",
+    "Balas de Revolver": "💥",
+    "Coca": "🍃",
+    "Purple Kush": "🍃",
+    "Amapolas": "🍃",
+    "Amnesia Haze": "🍃",
+    "Peyotes": "🌲",
+    "Coca Procesada"": "🌿",
+    "Purple Procesada": "🌿",
+    "Amapolas Procesada": "🌿",
+    "Amnesia Procesada": "🌿",
+    "Dinero": "💵",
+    "Dinero Negro": "💴"
 }
 
 def guardar_inventario():
