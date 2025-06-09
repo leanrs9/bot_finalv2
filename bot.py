@@ -29,10 +29,10 @@ EMOJIS = {
     "Amapolas": "🍃",
     "Amnesia Haze": "🍃",
     "Peyotes": "🌲",
-    "Coca Procesada"": "🍃",
-    "Purple Procesada": "🍃",
-    "Amapolas Procesada": "🍃",
-    "Amnesia Procesada": "🍃",
+    "Coca Procesada": "🌿",
+    "Purple Procesada": "🌿",
+    "Amapolas Procesada": "🌿",
+    "Amnesia Procesada": "🌿",
     "Dinero": "💵",
     "Dinero Negro": "💴"
 }
