@@ -19,7 +19,7 @@ EMOJIS = {
     "Cuchillos": "🔪",
     "Radios": "📻",
     "Chalecos": "🦺",
-    "Balas 9mm": "💥"
+    "Balas 9mm": "💥",
     "Pistolas .50": "🔫",
     "Revolvers": "🔫",
     "Balas de .50": "💥",
